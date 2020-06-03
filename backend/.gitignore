@@ -1,0 +1,37 @@
+# Directories #
+build/
+bin/
+target/
+
+.metadata
+*.idea
+.idea/*
+
+# OS Files #
+.DS_Store
+desktop.ini
+Thumbs.db
+
+*.class
+*.iml
+*.ipr
+*.iws
+*~
+*#
+.*.swp
+.*.swo
+*.patch
+.settings
+._*
+
+# Specific to the project
+**/reports/
+
+.classpath
+.project
+.idea
+*/.idea
+.idea
+/.idea
+.idea/
+.DS_STORE
